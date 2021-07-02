@@ -1,0 +1,6 @@
+code: tt_task_list_widget
+titles:
+  en: TT - Task List
+  it: TT - Task List
+group: free
+customUiPath: task-list-widget.ftl

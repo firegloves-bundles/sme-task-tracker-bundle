@@ -1,0 +1,7 @@
+code: tt_task_detail_widget
+titles:
+  en: TT - Task Detail
+  it: TT - Task Dettaglio
+group: free
+customUiPath: task-detail-widget.ftl
+
