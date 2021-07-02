@@ -1,0 +1,22 @@
+code: sme-tasktracker-bundle
+description: This is the sme-task-tracker bundle
+
+components:
+  plugins:
+    - plugins/smetasktracker-plugin.yaml
+
+  pageModels:
+    - ui/pageModels/home/home-tasktracker-descriptor.yaml
+# entando-needle-descriptor-add-pageModels
+
+  widgets:
+    - ui/widgets/addAction/add-action-widget-descriptor.yaml
+    - ui/widgets/btnClose/btn-close-widget-descriptor.yaml
+    - ui/widgets/gotoTaskList/goto-task-list-descriptor.yaml
+    - ui/widgets/menuSinistro/menu-sinistro-widget-descriptor.yaml
+    - ui/widgets/newTask/new-task-descriptor.yaml
+    - ui/widgets/taskCreation/task-creation-widget-descriptor.yaml
+    - ui/widgets/taskDetailWidget/task-detail-widget-descriptor.yaml
+    - ui/widgets/taskListWidget/task-list-widget-descriptor.yaml
+    - ui/widgets/taskUpdate/task-update-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets
