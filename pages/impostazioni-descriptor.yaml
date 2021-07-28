@@ -29,7 +29,7 @@ widgets:
   - code: btn-edo
     config: null
     pos: 7
-  - code: notification-settings
+  - code: notification-settings-widget
     config: null
     pos: 9
   - code: task-info-build
