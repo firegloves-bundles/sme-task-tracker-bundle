@@ -1,0 +1,25 @@
+code: homepage
+parentCode: homepage
+titles:
+  en: homepage
+  it: homepage
+pageModel: tt_home_tasktracker
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf8
+status: published
+widgets:
+  - code: tt_menu_sinistro_widget
+    config: null
+    pos: 0
+  - code: userinfo-widget
+    config: null
+    pos: 1
+  - code: version
+    config: null
+    pos: 4
+  - code: log_out
+    config: null
+    pos: 5
