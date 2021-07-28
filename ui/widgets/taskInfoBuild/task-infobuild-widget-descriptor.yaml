@@ -1,0 +1,7 @@
+code: task-info-build
+titles:
+  en: Task Info Build
+  it: Task Info Build
+group: free
+customUiPath: task-infobuild-widget.ftl
+
