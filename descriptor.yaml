@@ -25,6 +25,7 @@ components:
     #- ui/widgets/gotoTaskList/goto-task-list-descriptor.yaml
     #- ui/widgets/menuSinistro/menu-sinistro-widget-descriptor.yaml
     #- ui/widgets/newTask/new-task-descriptor.yaml
+    - ui/widgets/taskInfoBuild/task-infobuild-widget-descriptor.yaml
     - ui/widgets/taskCreation/task-creation-widget-descriptor.yaml
     - ui/widgets/taskDetailWidget/task-detail-widget-descriptor.yaml
     - ui/widgets/taskListWidget/task-list-widget-descriptor.yaml
