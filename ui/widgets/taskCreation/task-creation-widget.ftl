@@ -19,8 +19,8 @@
 
 <script nonce="<@wp.cspNonce />">
     const taskCreation = document.querySelector('task-creation') ;
-    taskCreation.callback= (id)=>{
-        window.location = "<@wp.info key="systemParam" paramName="applicationBaseURL" />/it/dettaglio_task.page?taskId="+id;
+    taskCreation.callback = (id) => {
+        window.location = "<@wp.info key="systemParam" paramName="applicationBaseURL" />it/dettaglio_task.page?taskId="+id;
     };
     taskCreation.setAttribute('refresh',true);
 </script>
