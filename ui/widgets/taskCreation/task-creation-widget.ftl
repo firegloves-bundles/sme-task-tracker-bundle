@@ -9,7 +9,13 @@
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.f2c72e1e.js.map"></script>
 <#-- entando_resource_injection_point -->
 
-<task-creation service-url="/smetasktracker/api" locale="it" css-url="<@wp.resourceURL />sme-tasktracker-bundle/static/css/" use-mock="false"></task-creation>
+<task-creation
+    service-url="/smetasktracker/api"
+    service-url-user="/smeEdoUser/api"
+    service-url-attachments="/smeTaskAttachments/api"
+    locale="it"
+    css-url="<@wp.resourceURL />sme-tasktracker-bundle/static/css/"
+/>
 
 <script nonce="<@wp.cspNonce />">
     const taskCreation = document.querySelector('task-creation') ;
