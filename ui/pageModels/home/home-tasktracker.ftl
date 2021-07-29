@@ -10,12 +10,12 @@
         <meta name="description" content="" />
         <meta name="author" content="DM" />
 
-        <link rel="icon" href="<@wp.imgURL />favicon.png" type="image/png" />
+        <link rel="icon" href="<@wp.resourceURL />sme-tasktracker-bundle/static/img/favicon.png" type="image/png" />
 
-        <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css" rel="stylesheet">      
+        <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css" rel="stylesheet">
         <link rel="stylesheet" href="<@wp.resourceURL />static/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="<@wp.resourceURL />sme-tasktracker-bundle/static/css/sme-task.css" rel="stylesheet">
-       
+
          <@wp.fragment code="kc" escapeXml=false />
 		 <!--<@wp.fragment code="entando_keycloak_check" escapeXml=false />-->
     </head>

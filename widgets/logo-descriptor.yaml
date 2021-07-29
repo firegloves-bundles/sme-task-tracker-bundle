@@ -19,5 +19,5 @@ customUi: |-
   </style>
 
    <div  >
-            <img  class="image-logo" src="<@wp.resourceURL />static/img/Stemma_Araldico_881x1000.png" alt="">
+            <img  class="image-logo" src="<@wp.resourceURL />sme-tasktracker-bundle/static/img/Stemma_Araldico_881x1000.png" alt="">
   </div>
