@@ -1,0 +1,7 @@
+code: version
+titles:
+  en: TT - Version
+  it: TT - Versione
+group: free
+customUiPath: task-version-widget.ftl
+

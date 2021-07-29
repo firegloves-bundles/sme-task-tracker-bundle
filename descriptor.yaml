@@ -19,7 +19,6 @@ components:
     - widgets/tt_goto_task_list-descriptor.yaml
     - widgets/tt_menu_sinistro_widget-descriptor.yaml
     - widgets/tt_new_task_widget-descriptor.yaml
-    - widgets/version-descriptor.yaml
     #- ui/widgets/addAction/add-action-widget-descriptor.yaml
     #- ui/widgets/btnClose/btn-close-widget-descriptor.yaml
     #- ui/widgets/gotoTaskList/goto-task-list-descriptor.yaml
@@ -30,6 +29,7 @@ components:
     - ui/widgets/taskDetailWidget/task-detail-widget-descriptor.yaml
     - ui/widgets/taskListWidget/task-list-widget-descriptor.yaml
     - ui/widgets/taskUpdate/task-update-widget-descriptor.yaml
+    - ui/widgets/taskVersion/task-version-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets
 
   pages:
