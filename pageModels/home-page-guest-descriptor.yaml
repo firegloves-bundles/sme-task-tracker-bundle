@@ -46,16 +46,15 @@ template: |-
           <meta name="viewport" content="width=device-width,  user-scalable=no" />
           <meta name="description" content="" />
           <meta name="author" content="DM" />
-        
+
           <meta http-equiv="Content-Security-Policy" content="default-src 'self' data:; script-src 'self' data: 'unsafe-inline' 'unsafe-eval'; object-src 'none'; style-src 'self' data: 'unsafe-inline'; img-src 'self' data:; media-src *; frame-src 'self' data:; font-src 'self' data:; connect-src 'self' data:" />
 
           <link rel="icon" href="<@wp.imgURL />favicon.png" type="image/png" />
 
-          <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css" rel="stylesheet">      
+          <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css" rel="stylesheet">
           <link rel="stylesheet" href="<@wp.resourceURL />static/css/bootstrap.min.css" rel="stylesheet">
-          <link rel="stylesheet" href="<@wp.resourceURL />/static/css/video-js.css" rel="stylesheet">
           <link rel="stylesheet" href="<@wp.resourceURL />sme-tasktracker-bundle/static/css/sme-task.css" rel="stylesheet">
-        
+
       </head>
 
       <body>
@@ -83,7 +82,7 @@ template: |-
                      </div>
                 </div>
 
-                
+
               </div>
           </div>
           <!-- /#Sezione centrale -->
