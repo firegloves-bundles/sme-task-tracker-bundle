@@ -1,21 +1,21 @@
 <#assign wp=JspTaglibs[ "/aps-core"]>
 
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.9eafe5cc.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.9eafe5cc.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.9eafe5cc.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.3f414ac1.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.3f414ac1.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.3f414ac1.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.e8a9982a.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.e8a9982a.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.e8a9982a.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.bc70550e.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.bc70550e.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.bc70550e.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.73e3edbf.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.73e3edbf.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.5d9e7bf8.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.5d9e7bf8.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.0ec0a84b.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.0ec0a84b.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.0ec0a84b.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.f20dcd52.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.f20dcd52.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/3.f20dcd52.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.a53b3648.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.a53b3648.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/4.a53b3648.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.730ed340.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.730ed340.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/5.730ed340.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.8c9c5a2d.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.8c9c5a2d.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.5acd7fb3.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.5acd7fb3.js.map"></script>
 <#-- entando_resource_injection_point -->
 
 <task-detail
