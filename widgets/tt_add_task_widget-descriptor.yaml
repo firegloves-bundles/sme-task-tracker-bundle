@@ -21,13 +21,10 @@ customUi: |-
   </div>
 
   <script nonce="<@wp.cspNonce />" >
-  const goToAction = ()=> {
-       const urlParams = new URLSearchParams(window.location.search);
-       const taskId = urlParams.get('taskId');
-       window.location = "/entando-de-app/it/task_update.page?taskId="+taskId;
-   }
-  document.getElementById("btn-add-action").addEventListener("click", goToAction);
-
-
-
+    const goToAction = ()=> {
+         const urlParams = new URLSearchParams(window.location.search);
+         const taskId = urlParams.get('taskId');
+         window.location = "/entando-de-app/it/task_update.page?taskId="+taskId;
+     }
+    document.getElementById("btn-add-action").addEventListener("click", goToAction);
   </script>
