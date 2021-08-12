@@ -1,0 +1,45 @@
+code: sme-tasktracker-bundle
+description: This is the sme-task-tracker bundle
+
+components:
+  plugins:
+    - plugins/smetasktracker-plugin.yaml
+
+  pageModels:
+    - pageModels/home-page-guest-descriptor.yaml
+    - pageModels/tt_home_tasktracker-descriptor.yaml
+# entando-needle-descriptor-add-pageModels
+
+  widgets:
+    - widgets/logo-descriptor.yaml
+    - widgets/goto-detail-task-descriptor.yaml
+    - widgets/goto-task-list-descriptor.yaml
+    - widgets/tt_add_task_widget-descriptor.yaml
+    - widgets/tt_btn_close_widget-descriptor.yaml
+    - widgets/tt_goto_task_list-descriptor.yaml
+    - widgets/tt_menu_sinistro_widget-descriptor.yaml
+    - widgets/tt_new_task_widget-descriptor.yaml
+    #- ui/widgets/addAction/add-action-widget-descriptor.yaml
+    #- ui/widgets/btnClose/btn-close-widget-descriptor.yaml
+    #- ui/widgets/gotoTaskList/goto-task-list-descriptor.yaml
+    #- ui/widgets/menuSinistro/menu-sinistro-widget-descriptor.yaml
+    #- ui/widgets/newTask/new-task-descriptor.yaml
+    - ui/widgets/taskInfoBuild/task-infobuild-widget-descriptor.yaml
+    - ui/widgets/taskCreation/task-creation-widget-descriptor.yaml
+    - ui/widgets/taskDetailWidget/task-detail-widget-descriptor.yaml
+    - ui/widgets/taskListWidget/task-list-widget-descriptor.yaml
+    - ui/widgets/taskUpdate/task-update-widget-descriptor.yaml
+    - ui/widgets/taskVersion/task-version-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets
+
+  pages:
+    - pages/homepage-descriptor.yaml
+    - pages/guest-descriptor.yaml
+    - pages/impostazioni-descriptor.yaml
+    - pages/task-descriptor.yaml
+    - pages/dettaglio_task-descriptor.yaml
+    - pages/page_task_creation-descriptor.yaml
+    - pages/task_update-descriptor.yaml
+
+  labels:
+    - labels/labels-descriptor.yaml
