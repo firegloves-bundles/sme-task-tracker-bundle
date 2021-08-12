@@ -1,6 +1,6 @@
 code: tt_menu_sinistro_widget
 titles:
-  en: TT - Menu sinistro
-  it: TT - Menu sinistro
+    en: TT - Menu sinistro
+    it: TT - Menu sinistro
 group: free
 customUiPath: menu-sinistro-widget.ftl

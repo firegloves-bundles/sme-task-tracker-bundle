@@ -1,7 +1,7 @@
 code: tt_new_task_widget
 titles:
-  en: TT - Nuovo task
-  it: TT - Nuovo task
+    en: TT - Nuovo task
+    it: TT - Nuovo task
 group: free
 customUiPath: new-task.ftl
 

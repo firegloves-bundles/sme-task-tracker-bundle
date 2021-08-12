@@ -1,23 +1,23 @@
 code: logo
 titles:
-  en: Logo
-  it: Logo
+    en: Logo
+    it: Logo
 group: free
 customUi: |-
-  <#assign c=JspTaglibs[ "http://java.sun.com/jsp/jstl/core" ]>
-  <#assign wp=JspTaglibs[ "/aps-core" ]>
+    <#assign c=JspTaglibs[ "http://java.sun.com/jsp/jstl/core" ]>
+    <#assign wp=JspTaglibs[ "/aps-core" ]>
 
-  <style>
-   .image-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 500px;
-      width: 500px;
-      margin-top: 50px;
-  }
-  </style>
+    <style>
+     .image-logo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 500px;
+        width: 500px;
+        margin-top: 50px;
+    }
+    </style>
 
-   <div  >
-            <img  class="image-logo" src="<@wp.resourceURL />sme-tasktracker-bundle/static/img/Stemma_Araldico_881x1000.png" alt="">
-  </div>
+     <div  >
+              <img  class="image-logo" src="<@wp.resourceURL />sme-tasktracker-bundle/static/img/Stemma_Araldico_881x1000.png" alt="">
+    </div>

@@ -1,37 +1,37 @@
 code: impostazioni
 parentCode: homepage
 titles:
-  en: Impostazioni
-  it: Impostazioni
+    en: Impostazioni
+    it: Impostazioni
 pageModel: tt_home_tasktracker
 ownerGroup: free
-joinGroups: []
+joinGroups: [ ]
 displayedInMenu: true
 seo: false
 charset: utf-8
 status: published
 widgets:
-  - code: tt_menu_sinistro_widget
-    config: null
-    pos: 0
-  - code: userinfo-widget
-    config: null
-    pos: 1
-  - code: login-widget
-    config: null
-    pos: 2
-  - code: version
-    config: null
-    pos: 4
-  - code: log_out
-    config: null
-    pos: 5
-  - code: btn-edo
-    config: null
-    pos: 7
-  - code: notification-settings-widget
-    config: null
-    pos: 9
-  - code: task-info-build
-    config: null
-    pos: 14
+    -   code: tt_menu_sinistro_widget
+        config: null
+        pos: 0
+    -   code: userinfo-widget
+        config: null
+        pos: 1
+    -   code: login-widget
+        config: null
+        pos: 2
+    -   code: version
+        config: null
+        pos: 4
+    -   code: log_out
+        config: null
+        pos: 5
+    -   code: btn-edo
+        config: null
+        pos: 7
+    -   code: notification-settings-widget
+        config: null
+        pos: 9
+    -   code: task-info-build
+        config: null
+        pos: 14

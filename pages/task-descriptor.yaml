@@ -1,34 +1,34 @@
 code: task
 parentCode: homepage
 titles:
-  en: Task
-  it: Task
+    en: Task
+    it: Task
 pageModel: tt_home_tasktracker
 ownerGroup: free
-joinGroups: []
+joinGroups: [ ]
 displayedInMenu: true
 seo: false
 charset: utf-8
 status: published
 widgets:
-  - code: tt_menu_sinistro_widget
-    config: null
-    pos: 0
-  - code: userinfo-widget
-    config: null
-    pos: 1
-  - code: login-widget
-    config: null
-    pos: 2
-  - code: version
-    config: null
-    pos: 4
-  - code: log_out
-    config: null
-    pos: 5
-  - code: tt_new_task_widget
-    config: null
-    pos: 6
-  - code: tt_task_list_widget
-    config: null
-    pos: 8
+    -   code: tt_menu_sinistro_widget
+        config: null
+        pos: 0
+    -   code: userinfo-widget
+        config: null
+        pos: 1
+    -   code: login-widget
+        config: null
+        pos: 2
+    -   code: version
+        config: null
+        pos: 4
+    -   code: log_out
+        config: null
+        pos: 5
+    -   code: tt_new_task_widget
+        config: null
+        pos: 6
+    -   code: tt_task_list_widget
+        config: null
+        pos: 8

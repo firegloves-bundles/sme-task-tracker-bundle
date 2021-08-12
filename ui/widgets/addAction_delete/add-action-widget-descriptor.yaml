@@ -1,7 +1,7 @@
 code: tt_add_task_widget
 titles:
-  en: TT - Aggiungi azione al task
-  it: TT - Aggiungi azione al task
+    en: TT - Aggiungi azione al task
+    it: TT - Aggiungi azione al task
 group: free
 customUiPath: add-action-widget.ftl
 
