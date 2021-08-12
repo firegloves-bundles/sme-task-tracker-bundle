@@ -3,8 +3,8 @@
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.eb5e69b2.chunk.js"></script>
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.eb5e69b2.chunk.js.LICENSE.txt"></script>
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/2.eb5e69b2.chunk.js.map"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.64b82f4f.chunk.js"></script>
-<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.64b82f4f.chunk.js.map"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.af4ee2e5.chunk.js"></script>
+<script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/main.af4ee2e5.chunk.js.map"></script>
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.f2c72e1e.js"></script>
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.f2c72e1e.js.map"></script>
 <#-- entando_resource_injection_point -->
