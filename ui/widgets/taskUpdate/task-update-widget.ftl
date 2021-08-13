@@ -9,7 +9,11 @@
 <script src="<@wp.resourceURL />sme-tasktracker-bundle/static/js/runtime-main.dcea9772.js.map"></script>
 <#-- entando_resource_injection_point -->
 
-<task-update service-url="/smetasktracker/api" locale="it" ></task-update>
+<task-update
+    service-url="/smetasktracker/api"
+    service-url-user="/smeEdoUser/api"
+    locale="it" >
+</>
 
 <script>
   const urlParams = new URLSearchParams(window.location.search);
