@@ -12,9 +12,8 @@
 <task-update
     service-url="/smetasktracker/api"
     service-url-user="/smeEdoUser/api"
-    locale="it"
->
-</task-update>
+    locale="it" >
+</>
 
 <script>
   const urlParams = new URLSearchParams(window.location.search);
