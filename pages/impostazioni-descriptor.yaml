@@ -31,7 +31,7 @@ widgets:
         pos: 7
     -   code: ttracimgmt_gotorolesmgmt_widget
         config: null
-        pos: 7
+        pos: 8
     -   code: notification-settings-widget
         config: null
         pos: 9
