@@ -26,12 +26,9 @@ widgets:
     -   code: log_out
         config: null
         pos: 5
-    -   code: btn-edo
+    -   code: tt_settingslinks_widget
         config: null
         pos: 7
-    -   code: ttracimgmt_gotorolesmgmt_widget
-        config: null
-        pos: 8
     -   code: notification-settings-widget
         config: null
         pos: 9

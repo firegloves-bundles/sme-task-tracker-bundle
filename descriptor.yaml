@@ -30,6 +30,7 @@ components:
         - ui/widgets/taskListWidget/task-list-widget-descriptor.yaml
         - ui/widgets/taskUpdate/task-update-widget-descriptor.yaml
         - ui/widgets/taskVersion/task-version-widget-descriptor.yaml
+        - ui/widgets/settingsLinks/settingslinks-widget-descriptor.yaml
     # entando-needle-descriptor-add-widgets
 
     pages:

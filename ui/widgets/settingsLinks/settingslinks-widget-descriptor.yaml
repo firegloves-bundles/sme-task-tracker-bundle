@@ -1,0 +1,6 @@
+code: tt_settingslinks_widget
+titles:
+  en: TT - Settings Links
+  it: TT - Links Impostazioni
+group: free
+customUiPath: settingslinks-widget.ftl
