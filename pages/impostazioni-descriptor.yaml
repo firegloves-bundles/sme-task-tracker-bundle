@@ -29,6 +29,9 @@ widgets:
     -   code: btn-edo
         config: null
         pos: 7
+    -   code: ttracimgmt_gotorolesmgmt_widget
+        config: null
+        pos: 7
     -   code: notification-settings-widget
         config: null
         pos: 9
