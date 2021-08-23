@@ -32,3 +32,6 @@ widgets:
     -   code: tt_task_list_widget
         config: null
         pos: 8
+    -   code: ttracimgmt_roledetails_widget
+        config: null
+        pos: 9
