@@ -1,4 +1,4 @@
-image: entandodemo/tasktracker:1.6.4
+image: entandodemo/tasktracker:1.6.5
 dbms: none
 ingressPath: "/smetasktracker"
 healthCheckPath: "/management/health"
