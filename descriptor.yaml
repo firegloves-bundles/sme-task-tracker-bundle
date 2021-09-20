@@ -43,4 +43,4 @@ components:
 #        - pages/task_update-descriptor.yaml
 #
 #    labels:
-        - labels/labels-descriptor.yaml
+#        - labels/labels-descriptor.yaml
