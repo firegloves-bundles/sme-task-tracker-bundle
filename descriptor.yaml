@@ -2,8 +2,8 @@ code: sme-tasktracker-bundle
 description: This is the sme-task-tracker bundle
 
 components:
-    plugins:
-        - plugins/smetasktracker-plugin.yaml
+#    plugins:
+#        - plugins/smetasktracker-plugin.yaml
 #
 #    pageModels:
 #        - pageModels/home-page-guest-descriptor.yaml
@@ -42,5 +42,5 @@ components:
 #        - pages/page_task_creation-descriptor.yaml
 #        - pages/task_update-descriptor.yaml
 #
-#    labels:
-#        - labels/labels-descriptor.yaml
+    labels:
+        - labels/labels-descriptor.yaml
