@@ -1,7 +1,0 @@
-image: entandodemo/tasktracker:1.6.7
-dbms: none
-ingressPath: "/smetasktracker"
-healthCheckPath: "/management/health"
-roles:
-    - "smetasktracker-admin"
-# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
