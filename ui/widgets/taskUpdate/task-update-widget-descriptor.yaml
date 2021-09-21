@@ -1,7 +1,0 @@
-code: tt_task_update_widget
-titles:
-  en: TT - Task Update
-  it: TT - Aggiornamento Task Tracker
-group: free
-customUiPath: task-update-widget.ftl
-

@@ -1,6 +1,0 @@
-code: tt_task_creation_widget
-titles:
-  en: TT - Task Creation
-  it: TT - Creazione del Task
-group: free
-customUiPath: task-creation-widget.ftl

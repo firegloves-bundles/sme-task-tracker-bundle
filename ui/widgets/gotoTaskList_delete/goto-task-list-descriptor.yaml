@@ -1,7 +1,0 @@
-code: tt_goto_task_list
-titles:
-    en: TT - Go to Task List
-    it: TT - Vai all aLista dei Task
-group: free
-customUiPath: goto-task-list.ftl
-

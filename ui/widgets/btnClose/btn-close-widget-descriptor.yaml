@@ -1,7 +1,0 @@
-code: tt_btn_close_widget
-titles:
-  en: TT - Chiudi
-  it: TT - Chiudi
-group: free
-customUiPath: btn-close-widget.ftl
-
